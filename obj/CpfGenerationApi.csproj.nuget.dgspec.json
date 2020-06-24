@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\project\\CpfGenerationApi\\CpfGenerationApi.csproj": {}
+    "C:\\project\\CpfGenerationApi\\CpfGenerationApi.csproj": {}
   },
   "projects": {
-    "c:\\project\\CpfGenerationApi\\CpfGenerationApi.csproj": {
+    "C:\\project\\CpfGenerationApi\\CpfGenerationApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\project\\CpfGenerationApi\\CpfGenerationApi.csproj",
+        "projectUniqueName": "C:\\project\\CpfGenerationApi\\CpfGenerationApi.csproj",
         "projectName": "CpfGenerationApi",
-        "projectPath": "c:\\project\\CpfGenerationApi\\CpfGenerationApi.csproj",
+        "projectPath": "C:\\project\\CpfGenerationApi\\CpfGenerationApi.csproj",
         "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
-        "outputPath": "c:\\project\\CpfGenerationApi\\obj\\",
+        "outputPath": "C:\\project\\CpfGenerationApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
